@@ -58,26 +58,6 @@ This project allows users to explore a variety of gourmet dishes through a visua
 
 ---
 
-## Folder Structure
-
-```
-gourmet-recipe-app/
-├── backend/           # Spring Boot API
-│   ├── controller/
-│   ├── model/
-│   ├── repository/
-│   ├── service/
-│   └── application.properties
-├── frontend/          # React + TypeScript UI
-│   ├── components/
-│   ├── pages/
-│   ├── App.tsx
-│   └── index.tsx
-└── README.md
-```
-
----
-
 ## How It Works
 
 * The backend serves REST APIs for recipes and favorites.
