@@ -35,7 +35,7 @@ This project allows users to explore a variety of gourmet dishes through a visua
 1. Clone the project repository:
 
    ```bash
-   git clone https://github.com/<username>/gourmet-recipe-app.git
+   [git clone https://github.com/<username>/gourmet-recipe-app.git](https://github.com/CunninghamLi/gourmetrecipeapp.git)
    ```
 2. Navigate to the backend folder and start the server:
 
